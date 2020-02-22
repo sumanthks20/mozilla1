@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1582085126 source:d:\new folder\test\c\main.cpp
+	<iostream>
+
+1582087139 source:d:\new folder\test\c\q.cpp
+	<iostream>
+
